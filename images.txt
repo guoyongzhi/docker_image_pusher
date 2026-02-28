@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.10-slim
 mysql:8
-gitlab/gitlab-ce:17.6.1
+gitlab/gitlab-ce:latest
